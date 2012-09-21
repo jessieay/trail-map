@@ -1,0 +1,31 @@
+{
+  name: 'Git',
+  critical_learning: [
+    "First, [Try Git](http://try.github.com)!",
+    "Watch [Normal Workflow](http://blip.tv/scott-chacon/c2-normal-workflow-4113486).",
+    "Watch [Distributed Workflow](http://blip.tv/scott-chacon/c8-dist-workflow-4113615).",
+    "Read [Chapter 3 of Pro Git](http://git-scm.com/book/en/Git-Branching)."
+  ],
+  validation: [
+    everyday: [
+      "[Clone a repository](http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository#Cloning-an-Existing-Repository)",
+      "[Add a file to staging](http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Tracking-New-Files)",
+      "[Create a commit](http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Committing-Your-Changes)"
+    ],
+    intermediate: [
+      "[Add a remote](http://git-scm.com/book/en/Git-Basics-Working-with-Remotes#Adding-Remote-Repositories)",
+      "[Amend a commit](http://git-scm.com/book/en/Git-Basics-Undoing-Things#Changing-Your-Last-Commit)",
+      "[Stash changes](http://git-scm.com/book/en/Git-Tools-Stashing#Stashing-Your-Work)",
+      "[Create a tag](http://git-scm.com/book/en/Git-Basics-Tagging#Creating-Tags)"
+    ]
+  ],
+  ongoing_reference: [
+    "`man git-add`",
+    "`man git-branch`",
+    "`man git-checkout`",
+    "`man git-rebase`",
+    "`man git-reset`",
+    "`man git-stash`",
+    "`man git-status`"
+  ]
+}
