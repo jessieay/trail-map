@@ -1,13 +1,17 @@
 {
   name: 'Git',
-  critical_learning: [
-    "First, [Try Git](http://try.github.com)!",
-    "Watch [Normal Workflow](http://blip.tv/scott-chacon/c2-normal-workflow-4113486).",
-    "Watch [Distributed Workflow](http://blip.tv/scott-chacon/c8-dist-workflow-4113615).",
-    "Read [Chapter 3 of Pro Git](http://git-scm.com/book/en/Git-Branching)."
-  ],
-  validation: [
-    everyday: [
+  self_directed_learning: {
+    beginner: [
+      "First, [Try Git](http://try.github.com)!",
+      "Watch [Normal Workflow](http://blip.tv/scott-chacon/c2-normal-workflow-4113486)."
+    ],
+    intermediate: [
+      "Watch [Distributed Workflow](http://blip.tv/scott-chacon/c8-dist-workflow-4113615).",
+      "Read [Chapter 3 of Pro Git](http://git-scm.com/book/en/Git-Branching)."
+    ]
+  },
+  self_directed_validation: {
+    beginner: [
       "[Clone a repository](http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository#Cloning-an-Existing-Repository)",
       "[Add a file to staging](http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Tracking-New-Files)",
       "[Create a commit](http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Committing-Your-Changes)"
@@ -18,7 +22,7 @@
       "[Stash changes](http://git-scm.com/book/en/Git-Tools-Stashing#Stashing-Your-Work)",
       "[Create a tag](http://git-scm.com/book/en/Git-Basics-Tagging#Creating-Tags)"
     ]
-  ],
+  },
   ongoing_reference: [
     "`man git-add`",
     "`man git-branch`",
