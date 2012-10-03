@@ -1,5 +1,25 @@
 Ruby
 ====
+TO DO:
+----
+* Read [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/).
+* Read [The Well-Grounded Rubyist](http://amzn.to/grounded-rubyist). ($)
+* Read these sections of
+ [The Pickaxe](http://amzn.to/pickaxe-19): ($)
+
+```shell
+Chapter 23, "Duck Typing"
+Chapter 24, "Classes and Objects"
+```
+
+DONE:
+----
+* Read http://mislav.uniqpath.com/poignant-guide/book/chapter-4.html
+* Completed first several chapters of http://www.udemy.com/learn-ruby-programming-in-ten-easy-steps/
+* Completed 50% of http://rubykoans.com/
+* Read and did exercise from Chris Pine's Learn to Program book
+* First, [Try Ruby](http://tryruby.org)!
+* Completed group Ruby project at DBC
 
 Critical Learning
 -----------------
