@@ -1,5 +1,18 @@
 Rails
 =====
+TO DO:
+-----
+* Finish Rails tutorial
+* Complete Rails Testing for Zombies
+* Work on Bookclub app as example of solo project
+
+DONE:
+----
+* Push your code to [Github](http://github.com). (Free/$)
+* Deploy to [Heroku](http://heroku.com). (Free/$)
+* Finished half of Rails Tutorial
+* Watched many Railscasts and signed up for premium subscription
+* Taught several Railsbridge courses
 
 Critical learning
 -----------------

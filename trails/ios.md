@@ -1,5 +1,14 @@
 iOS
 ===
+TO DO:
+------
+* Look at resources below and figure out which ones are important
+* Work though Head First iOS book
+
+
+DONE:
+----
+
 
 Critical Learning
 -----------------

@@ -1,5 +1,12 @@
 Information Design
 ==================
+TO DO:
+-----
+* Look at resources below to get an overview of information design.
+
+DONE:
+----
+
 
 Critical learning
 -----------------

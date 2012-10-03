@@ -1,6 +1,15 @@
 Grids
 =====
 
+TO DO:
+-----
+* Look into resources below to get an overview.
+
+DONE:
+----
+
+
+
 Critical learning
 -----------------
 

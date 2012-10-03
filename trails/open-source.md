@@ -1,5 +1,15 @@
 Open Source
 ===========
+TO DO:
+-----
+* Read the rubygems.org ["Make your own gem" guide](http://guides.rubygems.org/make-your-own-gem/).
+* Read [8 steps to fixing other people's code](http://rdd.me/tsf7khhg).
+* Watch [How to manage an open source project](http://vimeo.com/45214727).
+
+DONE:
+----
+* GitHub acct
+* Contributed to Railsbridge curriculum
 
 Critical learning
 -----------------

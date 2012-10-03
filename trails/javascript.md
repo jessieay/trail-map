@@ -1,5 +1,17 @@
 Javascript
 ==========
+TO DO:
+-----
+* Purchase and read JavaScript: The Good Parts
+* Finish Codecademy exercises
+* Finish Eloquent JavaScript
+
+DONE:
+-----
+* Finished first 7 weeks of Codecademy exercises
+* Read first several chapters of Eloquent JavaScript
+* Watched Crockford lecture videos on js
+
 
 Critical learning
 -----------------

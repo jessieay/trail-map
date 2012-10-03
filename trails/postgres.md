@@ -1,5 +1,13 @@
 Postgres
 ========
+TO DO:
+-----
+* Read below sections of Postgres manual
+* Understand how Postgres is different from SQLite 
+
+DONE:
+----
+
 
 Critical learning
 -----------------

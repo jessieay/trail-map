@@ -1,5 +1,11 @@
 RubyMotion
 ==========
+TO DO:
+-----
+* Complete Ruby and iOS sections and then look at this
+
+DONE:
+----
 
 Critical Learning
 -----------------

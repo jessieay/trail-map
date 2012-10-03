@@ -1,5 +1,14 @@
 Code Review
 ===========
+TO DO:
+-----
+* Read [feature branch code reviews](http://goo.gl/jIcOv).
+* Read [Best Practices of Peer Code Review](http://goo.gl/A8Boc).
+
+
+DONE:
+----
+
 
 Critical Learning
 -----------------

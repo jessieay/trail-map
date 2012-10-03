@@ -1,5 +1,16 @@
 Vim
 ===
+TO DO:
+-----
+* Set up c tags (see below)
+* Write blog post on basic vim
+* 
+
+DONE:
+----
+* Completed vimtutor
+* Completed first 4 levels of VIM Adventures
+* Worked on project entirely in VIM (startup weekend)
 
 Critical learning
 -----------------

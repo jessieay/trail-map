@@ -1,5 +1,16 @@
 Test-Driven Development
 =======================
+TO DO:
+-----
+* Read [Test-Driven Development By Example](http://amzn.to/test-driven-dev). ($)
+* Read [Beginning Outside-In Rails Development with Cucumber and RSpec](http://blog.carbonfive.com/2012/02/14/beginning-outside-in-rails-development-with-cucumber-and-rspec/).
+* Read [Martin Fowlers "Mocks Aren't Stubs"](http://martinfowler.com/articles/mocksArentStubs.html).
+* Find and look at great tests
+* Write blog post about testing
+
+DONE:
+----
+
 
 Critical learning
 -----------------

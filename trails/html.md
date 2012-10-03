@@ -1,5 +1,14 @@
 HTML
 ====
+TO DO:
+------
+* Complete [Code Academy Web Fundamentals](http://www.codecademy.com/tracks/web).
+* Read [Dive into HTML5](http://diveintohtml5.info/).
+
+DONE:
+----
+* Read and worked through all exercises in http://www.headfirstlabs.com/books/hfhtml/
+
 
 Critical learning
 -----------------

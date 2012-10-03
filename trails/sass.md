@@ -1,5 +1,11 @@
 Sass
 ====
+TO DO:
+-----
+* Read the [Sass Tutorial](http://sass-lang.com/tutorial.html).
+
+DONE:
+----
 
 Critical learning
 -----------------

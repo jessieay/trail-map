@@ -1,5 +1,11 @@
 Refactoring
 ===========
+TO DO:
+-----
+* Look at resources below and determine which ones are interesting. 
+
+DONE:
+-----
 
 Critical learning
 -----------------
