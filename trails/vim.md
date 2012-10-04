@@ -3,14 +3,20 @@ Vim
 TO DO:
 -----
 * Set up c tags (see below)
-* Write blog post on basic vim
-* 
+* Type `:help` within vim and read the "Getting Started" and "Editing
+  Effectively" sections.
+* Learn the single-letter commands with the
+  [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif).
+* Read [Seven habits of effective text editing](http://www.moolenaar.net/habits.html)
+  by vim author Bram Moolenaar.
+ 
 
 DONE:
 ----
 * Completed vimtutor
 * Completed first 4 levels of VIM Adventures
 * Worked on project entirely in VIM (startup weekend)
+* Write blog post on basic vim
 
 Critical learning
 -----------------
