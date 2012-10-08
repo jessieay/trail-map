@@ -9,7 +9,7 @@ TO DO:
   [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif).
 * Read [Seven habits of effective text editing](http://www.moolenaar.net/habits.html)
   by vim author Bram Moolenaar.
- 
+
 
 DONE:
 ----
