@@ -1,6 +1,8 @@
 Trail map
 =========
 
+# Jessie's Trail Map
+
 > How do I learn Ruby on Rails? Vim? Test-Driven Development?
 
 [apprentice.io](http://apprentice.io) has forced us to formalize our answers to
